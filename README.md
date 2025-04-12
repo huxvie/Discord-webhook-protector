@@ -1,3 +1,5 @@
+# I will add the sourcecode later this week!
+
 # special thanks to chatgpt for writing half of this readme ♥️
 # Discord-webhook-protector
 This is a simple discord webhook protector (yes it has a backdoor)
@@ -24,4 +26,3 @@ Before you begin, ensure you have the following:
 
 * **Web Server:** A web server (e.g., Apache, Nginx) capable of running PHP.
 * **PHP:** PHP 7.4 or higher installed on your server.
-* **Discord Webhook URL(s):** The URL(s) of the Discord webhook(s) you want to forward to.
