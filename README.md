@@ -25,5 +25,5 @@ I understand that this is kinda childish. This functionality was included becaue
 Before you begin, ensure you have the following:
 
 * **Web Server:** A web server (e.g., Apache, Nginx) capable of running PHP.
-* **Database:** You beed a database, I gues you have to figure that out (I'll upluad my database config).
+* **Database:** You need a database, I gues you have to figure that out (I'll upload my database config).
 * **PHP:** PHP 7.4 or higher installed on your server.
