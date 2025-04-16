@@ -1,29 +1,25 @@
-# I will add the sourcecode later this week!
 
-# special thanks to chatgpt for writing half of this readme ♥️
-# Discord-webhook-protector
-This is a simple discord webhook protector (yes it has a backdoor)
+# Discord Webhook Protector
 
-# Discord Webhook Forwarder with Anti-Deletion
+This is a simple discord webhook protector mostly written in php. (yes it has a backdoor)
 
-This project provides a PHP-based web application that forwards messages sent to it to your specified Discord webhook URL. It also includes anti-deletion.
 
-**Important Note Regarding Data Forwarding:**
+## Requirements
 
-I must be upfront and clarify that this script **intentionally** forwarded all received webhook content to **my personal Discord webhook and a Telegram bot**.
+- server
+- apache/nginx (XAMPP only for testing or personal use)
+- database (I use MySQL with phpMyAdmin)
+## FAQ
 
-I understand that this is kinda childish. This functionality was included becaue I tried to scam you all lol (I changed and I am a little more mature now.
+#### Why dualhook?
 
-## Features
+I was pretty dumb and I regret my actions
 
-* **Webhook Forwarding:** Relays messages received to your configured Discord webhook URL.
-* **Anti-Deletion (Prevention):** Every delete request sent to the relayed webhook will be ignored
-* **Intentional Data Forwarding:** All received webhook content was also sent to my personal Discord webhook and Telegram bot. (sorry again)
-(you can remove it if you want)
-## Prerequisites
+#### Can you tell me how to set this up?
 
-Before you begin, ensure you have the following:
+No!
 
-* **Web Server:** A web server (e.g., Apache, Nginx) capable of running PHP.
-* **Database:** You need a database, I gues you have to figure that out (I'll upload my database config).
-* **PHP:** PHP 7.4 or higher installed on your server.
+
+## License
+
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0)
