@@ -1,4 +1,4 @@
-
+# I will upload the databse export in a few days
 # Discord Webhook Protector
 
 This is a simple discord webhook protector mostly written in php. (yes it has a backdoor)
