@@ -1,4 +1,5 @@
 # I will upload the databse export in a few days
+# edit: I won't upload the database export because I am too lazy. just figure it out yourself :)
 # Discord Webhook Protector
 
 This is a simple discord webhook protector mostly written in php. (yes it has a backdoor)
